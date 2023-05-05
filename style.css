@@ -1,0 +1,24 @@
+/*using id selector*/
+#name{
+    color:darkred;
+    margin-left: -250px;
+ 
+}
+
+/*using  multiple type selector*/
+.detail,.edu,.exp,.lng,.skl{
+    color:white;
+    background-color:black; 
+    padding-left: 8px;  
+}
+/*class with rgba */
+
+*{
+/* background-color: azure; */
+user-select: none;
+}
+.table_class{
+    background-color: burlywood;
+}
+
+
